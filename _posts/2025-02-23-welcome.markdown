@@ -6,5 +6,5 @@ categories: jekyll update
 ---
 Thanks for stopping by! 
 
-[Linkedin](https://www.linkedin.com/in/vignesh-jagadeesh-1090417)
+[Linkedin](https://www.linkedin.com/in/vignesh-jagadeesh-1090417) <br>
 [Google Scholar](https://scholar.google.com/citations?user=tNdHr4MAAAAJ&hl=en&oi=ao)
