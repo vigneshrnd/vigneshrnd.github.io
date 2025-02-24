@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I am Vignesh Jagadeesh and work as a senior research manager at Apple. I have been with Apple since 2014, and have been part of the SIML (previously CVML) team for the entire duration.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Initial Years:
+<p> When I joined the company, it was a time when there was a resurgance in neural networks / deep learning. While there were investments being made around the industry in server side deep learning, our team had a focus on "on-device" deep learning learning. My initial projects were around face analysis and recognition technologies. At around the same time, there was an effort towards on device scene classification. I decided to take on scene classification as my primary project and began building a small team around the effort in early 2016 </p>
