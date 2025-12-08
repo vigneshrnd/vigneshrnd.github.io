@@ -4,10 +4,24 @@ title: About
 permalink: /about/
 ---
 
-Hi, I am Vignesh Jagadeesh and work as a senior research manager at Apple leading several Apple Intelligence initiatives. I am a member of the SIML team in Apple's software organization.
 
-<h3>Current Focus Areas</h3>
-My team currently focusses on three primary areas: Content Understanding, Image Synthesis and Safety. Our projects are at the intersection between Vision and Lanugage, with an emphasis on building out ML infrastructure whereever needed. 
 
-<h3>Initial Years</h3>
-<p> When I joined the company, it was a time when there was a resurgance in neural networks / deep learning. While there were investments being made around the industry in server side deep learning, our focus was on "on-device" deep learning. My initial projects were around face analysis and recognition technologies. I subsequently transitioned to take on scene understanding as my primary focus area and began leading teams around the effort from 2016 onwards </p>
+Experienced leader in Artificial Intelligence blending foundational core technology development and user experiences. Have been responsible for several important inflection points in infusing multimodal ML workstreams into the Apple Ecosystem
+
+<h3>Foundational Core Technology</h3>
+* Visual Generation: Spearheaded on-device image generation / diffusion, Apple Diffusion Model (ADM) pre-training / post-training and optimization
+* Infrastructure - Training workflows for distributed training of diffusion / embedding models, Apple Neural Engine optimized deployment of transformer models
+* Safety - Training and deployment of systemwide guardrails that power Apple Intelligence. Alignment / model mitigation post training 
+* Multimodal Embeddings - The primary embedding model that is used across Apple operating systems. Also resulted in image/video captioning that allows for efficient descriptions of visual content in performance constrained settings
+* Child Safety - Led the development of communication safety models for images and video
+* Systemwide Visual Perception - Fundamental image tagging, image saliency estimation, aesthetics, embeddings, custom classifiers are extensively used for visual analysis across the system
+
+
+<h3>Product Impact</h3>
+* Systemwide Intelligence - Systemwide Visual Generation, Visual Intelligence (Lookup, Search), Code Scanning
+* Developer Experience - 3rd party APIs in Vision.fwk, 3rd party Safety APIs, CreateML / CoreML for custom training
+* Communication Apps - Live Stickers, Communication Safety, Genmoji, Generative Messages Background
+* Apple Camera Experiences - Photographic Styles / Semantic Segmentation, Portrait Mode, QR Code Scanning, Live Text
+* Apple Photos - Apple Intelligence Memories, Photos Curation, Photos Search, Personalization
+
+
