@@ -6,7 +6,7 @@ permalink: /about/
 
 <!---
 <iframe src="https://drive.google.com/file/d/1ndWdniSFbnLg08xCQNwwZ40-XH2eNOwh/preview" width="640" height="480"></iframe>
--->
+
 
 ![Description of image](assets/IMG_3601.jpeg)
 
@@ -28,4 +28,4 @@ Experienced leader in Artificial Intelligence blending foundational core technol
 * **Apple Camera Experiences** - Photographic Styles / Semantic Segmentation, Portrait Mode, QR Code Scanning, Live Text
 * **Apple Photos** - Apple Intelligence Memories, Photos Curation, Photos Search, Personalization
 
-
+-->
