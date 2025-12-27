@@ -17,7 +17,7 @@ permalink: /initiatives/
  **Safety** - Training and deployment of systemwide guardrails that power Apple  Intelligence. Alignment / model mitigation post training  \
  **Multimodal Embeddings** - The primary embedding model that is used across Apple operating systems. Also resulted in image/video captioning that allows for efficient descriptions of visual content in performance constrained settings \
  **Child Safety** - Led the development of communication safety models for images and video \
- **Systemwide Visual Perception** - Fundamental image tagging, image saliency estimation, aesthetics, embeddings, custom classifiers are extensively used for visual analysis across the system \
+ **Systemwide Visual Perception** - Fundamental image tagging, image saliency estimation, aesthetics, embeddings, custom classifiers are extensively used for visual analysis across the system 
 
 <h4 style="text-align: center;"> Details across product launches over the past 10 years </h4>
 
@@ -30,7 +30,7 @@ permalink: /initiatives/
 **Core Technologies:** [On-Device Diffusion](https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon), [On-Device Embeddings](https://machinelearning.apple.com/research/on-device-scene-analysis), Safety Alignment                                                    
  <br>
 <h4 style="text-align: center;">2022/23 </h4>   
-**User Experiences:** [Video Segmentation/Stickers](https://www.youtube.com/watch?v=mafroO9dA5M), [Communication Safety in Video](https://www.apple.com/child-safety/), Copy/Paste Edits \                                       
+**User Experiences:** [Video Segmentation/Stickers](https://www.youtube.com/watch?v=mafroO9dA5M), [Communication Safety in Video](https://www.apple.com/child-safety/), Copy/Paste Edits                                
 **Core Technologies:**  [Diffusion on ANE](https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon), Video Segmentation, Video Safety, Motion Estimation, Im2Im Translation               
  <br>
 <h4 style="text-align: center;">2021/22 </h4>
@@ -38,17 +38,17 @@ permalink: /initiatives/
 **Core Technologies:** [Transformers on the ANE](https://machinelearning.apple.com/research/neural-engine-transformers), , [On Device Scene Analysis](https://machinelearning.apple.com/research/on-device-scene-analysis), ImLang Foundation Model for iOS/macOS, System Image Safety, Segmentation  
  <br>
 <h4 style="text-align: center;">2020/21 </h4>
-**User Experiences:** [Cinematic Mode](https://support.apple.com/guide/iphone/record-video-in-cinematic-mode-ipha0706e2bc/ios), [Document Scanning in Vision](https://developer.apple.com/videos/play/wwdc2021/10041/), [Live Text](https://www.youtube.com/watch?v=hL5HJKQNPQQ), [Visual Lookup](https://www.youtube.com/watch?v=-09HPC9MMGY), Shared With You \              
+**User Experiences:** [Cinematic Mode](https://support.apple.com/guide/iphone/record-video-in-cinematic-mode-ipha0706e2bc/ios), [Document Scanning in Vision](https://developer.apple.com/videos/play/wwdc2021/10041/), [Live Text](https://www.youtube.com/watch?v=hL5HJKQNPQQ), [Visual Lookup](https://www.youtube.com/watch?v=-09HPC9MMGY), Shared With You           
 **Core Technologies:** [Color Normalization - Memories](https://support.apple.com/en-my/guide/ipad/ipad6f665ac7/ipados), Pixel Semantics, [Private Learning](https://machinelearning.apple.com/research/scenes-differential-privacy), FG Recognition, Color Normalization, Visual Tracking, Memes   \
 **Developer API:** [Document Segmentation](https://developer.apple.com/documentation/vision/vndetectdocumentsegmentationrequest)
  <br>
 <h4 style="text-align: center;">2019/20 </h4>
 **User Experiences:** [iPhone 12 Cameras](https://www.apple.com/newsroom/2021/01/shot-on-iphone-12-portraits-cityscapes-the-night-sky-and-more/), [Voiceover / On Device Captioning](https://www.youtube.com/watch?v=8CAafjodkyE), [Photos Widget](https://support.apple.com/en-us/118610), Final Cut Pro  \
-**Core Technologies:** Intelligent Cropping, Content Filtering, Visual Captioning, RT* Classifiers  \                      
+**Core Technologies:** Intelligent Cropping, Content Filtering, Visual Captioning, RT* Classifiers                     
 **Developer API:** CreateML Object Detection
  <br>
 <h4 style="text-align: center;">2018/19 </h4>
-**User Experiences:** iPhone 11 Cameras - RealTime Autofocus, Image Capture, Ultrawide Re-framing, RedEye Correction, Curation     \                                    
+**User Experiences:** iPhone 11 Cameras - RealTime Autofocus, Image Capture, Ultrawide Re-framing, RedEye Correction, Curation                                 
 **Core Technologies:** Real Time Saliency, Utility Filter, Person Semantics, Face Semantics, Image Fusion   \
 **Developer API:** Image Tagging, Image Similarity, Saliency
  <br>
@@ -59,7 +59,7 @@ permalink: /initiatives/
  <br>
 <h4 style="text-align: center;">2016/17 </h4>
 **User Experiences:** iPhone X Camera - QR Scanning in Camera, Autoexposure, Image Rendering \
-**Core Technologies:** Scene Analysis Backbone, Image Aesthetics, Saliency, Data Workflows                                      \             
+**Core Technologies:** Scene Analysis Backbone, Image Aesthetics, Saliency, Data Workflows          
 **Developer API:** Facial Landmarks in Vision
  <br>
 <h4 style="text-align: center;">2015/16 </h4>
