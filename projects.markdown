@@ -56,7 +56,7 @@ permalink: /initiatives/
 **Developer API:** [Document Segmentation](https://developer.apple.com/documentation/vision/vndetectdocumentsegmentationrequest). <br/>
 
 <iframe width="160" height="105" src="https://www.youtube.com/embed/-09HPC9MMGY" title="How to use Visual Look Up on your iPhone | Apple Support" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="215" height="141" src="https://www.youtube.com/embed/hL5HJKQNPQQ" title="How to use Live Text in a photo on iPhone and iPad | Apple Support" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="160" height="105" src="https://www.youtube.com/embed/hL5HJKQNPQQ" title="How to use Live Text in a photo on iPhone and iPad | Apple Support" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

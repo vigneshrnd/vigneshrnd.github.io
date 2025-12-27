@@ -10,7 +10,9 @@ title: About
 
 <img src="assets/VigneshImage.jpeg" style="float: left;" alt="drawing"/>
 
+---
 
+<br/>
 Welcome! I am Vignesh, and I work at Apple on AI/ML. I spealize in leading Artificial Intelligence initiatives blending foundational core technology development and user experiences. I have been responsible for several important inflection points in infusing multimodal ML workstreams into the Apple Ecosystem
 
 **Today,** I lead three fantastic teams that focus on visual generation, retreival / reasoning & AI Safety. Our north star is to influence user experiences through state of the art AI. 
@@ -21,7 +23,7 @@ Welcome! I am Vignesh, and I work at Apple on AI/ML. I spealize in leading Artif
 
 **From 2019 onwards,** I have been focussing a lot more on systemwide intelligence. Live Text, Visual Lookup, Live Stickers, Communication Safety, Child Safety and Accesibility are among the experiences we focussed on. I am especially proud of the work on image captioning that we shipped in 2020. It was the best in class on-device captioner, and laid the foundations for infrastructure that supported efficient inference of transformers. This gradually led to dedicated efforts on efficient transformer inference, their use in photographic styles, and eventually to the work on on-device diffusion models.
 
-**A very high level,** overview of products and core technologies I have led:
+**At a very high level,** overview of products and core technologies I have led:
 
 | Product Surface Area      | Projects |
 | ----------- | ----------- |
