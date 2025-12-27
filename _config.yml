@@ -19,13 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Vignesh Jagadeesh
-email: j.v@icloud.com
+email: firstlastname@g....c..
 description: >- # this means to ignore newlines until "baseurl:"
   Website providing a high level overview of efforts that I have been a part of from a technical standpoint. Any views expressed are my own. - Vignesh 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vigneshjagadees
-github_username:  vigneshrnd
 
 # Build settings
 theme: minima
