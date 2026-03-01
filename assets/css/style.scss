@@ -1,0 +1,310 @@
+---
+---
+
+@import "minima";
+
+/* =============================================
+   Professional Custom Styles — Vignesh Jagadeesh
+   ============================================= */
+
+/* === Base Typography === */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue",
+    "Segoe UI", Arial, sans-serif;
+  color: #1d1d1f;
+  line-height: 1.72;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* === Site Header === */
+.site-header {
+  border-top: 3px solid #0071e3;
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: saturate(180%) blur(12px);
+  -webkit-backdrop-filter: saturate(180%) blur(12px);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09);
+}
+
+.site-title {
+  font-weight: 700;
+  font-size: 1.15rem;
+  letter-spacing: -0.03em;
+  color: #1d1d1f !important;
+  transition: color 0.15s;
+}
+
+.site-title:hover {
+  color: #0071e3 !important;
+  text-decoration: none;
+}
+
+.site-nav .page-link {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #444;
+  letter-spacing: 0;
+  transition: color 0.15s;
+}
+
+.site-nav .page-link:hover {
+  color: #0071e3;
+  text-decoration: none;
+}
+
+/* === Profile Image === */
+.profile-img {
+  border-radius: 14px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.14), 0 2px 8px rgba(0, 0, 0, 0.08);
+  float: left;
+  margin: 0.25rem 2.5rem 2rem 0;
+  max-width: 175px;
+  display: block;
+  transition: box-shadow 0.2s;
+}
+
+.profile-img:hover {
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.18), 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* === Content Area === */
+.page-content {
+  padding-top: 2.5rem;
+  padding-bottom: 3.5rem;
+}
+
+.page-content p {
+  font-size: 1rem;
+  line-height: 1.78;
+  color: #3a3a3c;
+  margin-bottom: 1.1rem;
+}
+
+/* === Page Title === */
+.page-content .post-title,
+h1.post-title {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.04em;
+  color: #1d1d1f;
+}
+
+/* === Subheadings === */
+.page-content h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  color: #1d1d1f;
+  margin-top: 2.5rem;
+  margin-bottom: 0.6rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid #e8e8ed;
+}
+
+/* === Timeline Year Headings (h3 on initiatives page) === */
+.page-content h3 {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: #0071e3;
+  border-left: 4px solid #0071e3;
+  padding: 0.15rem 0 0.15rem 0.85rem;
+  margin: 2.75rem 0 0.8rem;
+  letter-spacing: -0.025em;
+  background: linear-gradient(90deg, rgba(0, 113, 227, 0.05) 0%, transparent 60%);
+  border-radius: 0 6px 6px 0;
+}
+
+/* === Tables === */
+table {
+  border-collapse: separate !important;
+  border-spacing: 0;
+  width: 100%;
+  margin: 1.5rem 0 2.25rem;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.05);
+  font-size: 0.95rem;
+}
+
+table th {
+  background: #f5f5f7;
+  color: #6e6e73;
+  font-weight: 700;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  padding: 13px 18px;
+  border-bottom: 1px solid #e8e8ed;
+  text-align: left;
+}
+
+table td {
+  padding: 13px 18px;
+  border-bottom: 1px solid #f0f0f2;
+  vertical-align: top;
+  line-height: 1.65;
+}
+
+table tr:last-child td {
+  border-bottom: none;
+}
+
+table tr:hover td {
+  background-color: #fafafa;
+  transition: background-color 0.1s;
+}
+
+table td:first-child {
+  font-weight: 600;
+  color: #1d1d1f;
+  min-width: 195px;
+}
+
+/* === Links === */
+a {
+  color: #0071e3;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+a:hover {
+  color: #0051a2;
+  text-decoration: underline;
+}
+
+/* === Bold text === */
+strong {
+  color: #1d1d1f;
+  font-weight: 600;
+}
+
+/* === Horizontal Rule === */
+hr {
+  border: none;
+  border-top: 1px solid #e8e8ed;
+  margin: 2rem 0;
+}
+
+/* === Video row container === */
+.video-row {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin: 1.25rem 0 0.5rem;
+  align-items: flex-start;
+}
+
+.video-row iframe,
+.page-content iframe {
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.08);
+  display: block;
+}
+
+.page-content p > iframe {
+  margin: 0.4rem 0.4rem 0 0;
+}
+
+/* === Footer === */
+.site-footer {
+  border-top: 1px solid #e8e8ed;
+  background: #fafafa;
+  padding: 1.75rem 0;
+  color: #6e6e73;
+  font-size: 0.85rem;
+}
+
+.site-footer a {
+  color: #6e6e73;
+}
+
+.site-footer a:hover {
+  color: #0071e3;
+}
+
+/* === Blog post list === */
+.post-list h3 {
+  font-size: 1.15rem;
+  margin-bottom: 0.2rem;
+  border-left: none;
+  color: #1d1d1f;
+  background: none;
+  padding-left: 0;
+  letter-spacing: -0.01em;
+}
+
+.post-list h3:first-child,
+.post-list > li > h3 {
+  border-left: none;
+  background: none;
+  padding-left: 0;
+  margin-top: 0;
+  color: #1d1d1f;
+}
+
+.post-meta {
+  font-size: 0.85rem;
+  color: #6e6e73;
+}
+
+/* === Resume page === */
+.page-content a[href$=".pdf"] {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  background: #0071e3;
+  color: #fff !important;
+  padding: 0.55rem 1.2rem;
+  border-radius: 980px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: background 0.15s, transform 0.1s;
+  text-decoration: none !important;
+  margin-top: 0.5rem;
+}
+
+.page-content a[href$=".pdf"]:hover {
+  background: #0051a2;
+  transform: translateY(-1px);
+  text-decoration: none !important;
+}
+
+/* === Responsive === */
+@media (max-width: 640px) {
+  .profile-img {
+    float: none;
+    margin: 0 auto 1.75rem;
+    display: block;
+    max-width: 140px;
+  }
+
+  .video-row {
+    flex-direction: column;
+  }
+
+  .video-row iframe {
+    width: 100% !important;
+    height: auto !important;
+    aspect-ratio: 16 / 9;
+  }
+
+  table {
+    font-size: 0.875rem;
+  }
+
+  table th,
+  table td {
+    padding: 10px 13px;
+  }
+
+  table td:first-child {
+    min-width: 130px;
+  }
+
+  .page-content h3 {
+    font-size: 1.2rem;
+  }
+}
